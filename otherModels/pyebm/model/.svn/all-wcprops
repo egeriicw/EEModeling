@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/4/trunk/model
+END
+feedforward.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/4/trunk/model/feedforward.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/trunk/model/__init__.py
+END
+logreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4/trunk/model/logreg.py
+END
+rbm.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/trunk/model/rbm.py
+END

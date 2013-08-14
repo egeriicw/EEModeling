@@ -22,3 +22,8 @@ class personParams(object):
 
 class homeParams(object):
 	def __init__(self):
+
+class econParams(object):
+	def __init__(self):
+		self.electric_rate_increase = .05 #yearly average increase in utility price, consider bringing in Excel projectsion
+

@@ -1,3 +1,7 @@
-#
+#!usr/bin/python
 
-def riskModel (args, )
+import numpy as np
+
+def riskModel (args, X, Y):
+
+	
